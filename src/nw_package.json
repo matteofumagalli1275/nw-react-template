@@ -1,0 +1,14 @@
+{
+  "main":"index.html",
+  "name": "helloworld",
+  "description": "NW.js and react from sratch",
+  "version": "0.1.0",
+  "window": {
+    "title": "Application Title",
+    "icon": "res/icon.png",
+    "toolbar": true,
+    "frame": true,
+    "width": 800,
+    "height": 500
+  }
+}
