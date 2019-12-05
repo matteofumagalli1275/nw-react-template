@@ -24,5 +24,10 @@ module.exports = {
             from: 'src/template-res',
             to: './'
         }])
-    ]
+    ],
+    resolve: {
+        alias: {
+            'react-dom': '@hot-loader/react-dom',
+        },
+    }
 };
