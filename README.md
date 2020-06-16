@@ -1,5 +1,6 @@
 # nw-react-template
 Nw.js template using react
+You can also find a typescript version [HERE](https://github.com/matteofumagalli1275/nw-react-typescript-template)
 
 ```
 npm install
