@@ -7,7 +7,7 @@ You can also find a typescript version [HERE](https://github.com/matteofumagalli
 npm install
 
 # Add nw to the enviroment path after install
-npm install --nwjs_build_type=sdk -g --unsafe-perm nw@0.42.5
+npm install --nwjs_build_type=sdk -g --unsafe-perm nw@0.52.0
 
 # Start for development
 npm start
